@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="KI AffAIrs" width="100%">
+</p>
+
 # Human Oversight
 
 **A simple framework that keeps the human in control when working with AI — and puts EU AI Act (Art. 14) into everyday practice.**
