@@ -104,6 +104,7 @@ You need **no technical background.** If you use AI and occasionally think "wait
 | [`README.en.md`](README.en.md) | This introduction (English) |
 | [`SKILL.md`](SKILL.md) | The full framework in detail (also usable as a Claude Code skill) |
 | [`LICENSE`](LICENSE) | License (CC BY 4.0) |
+| [`NOTICE`](NOTICE) | Attribution notice — carries the CC BY 4.0 attribution requirement |
 
 ---
 
@@ -111,4 +112,4 @@ You need **no technical background.** If you use AI and occasionally think "wait
 
 © Claus Zeißler. Licensed under **[Creative Commons CC BY 4.0](LICENSE)** — you may freely use, share and adapt the framework as long as you credit the author.
 
-More: [affairs-consulting.de](https://affairs-consulting.de)
+More: [affairs-consulting.de](https://www.affairs-consulting.de)

@@ -1,6 +1,10 @@
 ---
 name: human-oversight
-description: "Human Oversight — ein praxistaugliches Framework gegen kognitive Faulheit UND kognitive Überambition bei der Arbeit mit KI. Nutze dieses Framework, wenn: (1) ein neues Projekt, eine neue Aufgabe oder ein neues Feature startet und Priorisierung/Fokus nötig ist, (2) komplexe Analysen, Entscheidungen oder Dokumente entstehen, bei denen der Mensch Kontrolle und Verständnis behalten muss, (3) der User sagt 'Human Oversight', 'menschliche Aufsicht', 'mit Zwischenschritten', 'erklär mir den Weg', 'nicht einfach das Ergebnis', 'Quality Check', 'RALF Loop', 'Triage', 'Priorisierung'. Auch automatisch aktivieren, wenn der User mehrere Projekte gleichzeitig anspricht oder offensichtlich überambitioniert plant. Das Framework hat drei Modi: Planen & Priorisieren (Triage vor dem Start), Transparente Schritte (nachvollziehbare Zwischenschritte mit Verständnisfragen), Quality Gate (Endprüfung mit RALF-Loop). Ziel: Der Mensch behält die Aufsicht — versteht jeden Schritt, kann jederzeit eingreifen, trägt die Verantwortung. Basiert auf Forschung zu Cognitive Offloading, Automation Bias und EU AI Act Artikel 14 (Human Oversight). Einsetzbar in direkter Konversation, in agentischen Systemen (n8n, CrewAI und ähnliche) und als Workshop-Methodik."
+description: "Human Oversight — praxistaugliches Framework gegen kognitive Faulheit UND kognitive Überambition bei der Arbeit mit KI. Nutze dieses Framework, wenn: (1) ein neues Projekt, eine neue Aufgabe oder ein neues Feature startet und Priorisierung/Fokus nötig ist, (2) komplexe Analysen, Entscheidungen oder Dokumente entstehen, bei denen der Mensch Kontrolle und Verständnis behalten muss, (3) der User sagt 'Human Oversight', 'menschliche Aufsicht', 'mit Zwischenschritten', 'erklär mir den Weg', 'nicht einfach das Ergebnis', 'Quality Check', 'RALF Loop', 'Triage', 'Priorisierung'. Auch automatisch aktivieren, wenn der User mehrere Projekte gleichzeitig anspricht oder offensichtlich überambitioniert plant. Drei Modi: Planen & Priorisieren, Transparente Schritte, Quality Gate (Details im Skill). Ziel: Der Mensch behält die Aufsicht — versteht jeden Schritt, kann jederzeit eingreifen, trägt die Verantwortung."
+metadata:
+  author: Claus Zeißler
+  version: 1.0.0
+  license: CC BY 4.0
 ---
 
 # Human Oversight
@@ -291,4 +295,4 @@ Es ist KEIN Ersatz für eine rechtliche Bewertung. Es ist ein Framework, das hil
 **Version:** 1.0
 **Autor:** Claus Zeißler
 **Lizenz:** CC BY 4.0 (Namensnennung) — siehe `LICENSE`
-**Kontakt:** affairs-consulting.de
+**Kontakt:** www.affairs-consulting.de

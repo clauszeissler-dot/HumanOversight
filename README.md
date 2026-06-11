@@ -104,6 +104,7 @@ Du brauchst **kein technisches Vorwissen.** Wenn du KI nutzt und gelegentlich de
 | [`README.en.md`](README.en.md) | English version |
 | [`SKILL.md`](SKILL.md) | Das vollständige Framework im Detail (auch als Claude-Code-Skill nutzbar) |
 | [`LICENSE`](LICENSE) | Lizenz (CC BY 4.0) |
+| [`NOTICE`](NOTICE) | Attributions-Hinweis — trägt die Namensnennungs-Anforderung der CC BY 4.0 |
 
 ---
 
@@ -111,4 +112,4 @@ Du brauchst **kein technisches Vorwissen.** Wenn du KI nutzt und gelegentlich de
 
 © Claus Zeißler. Lizenziert unter **[Creative Commons CC BY 4.0](LICENSE)** — du darfst das Framework frei nutzen, weitergeben und anpassen, solange du den Urheber nennst.
 
-Mehr: [affairs-consulting.de](https://affairs-consulting.de)
+Mehr: [affairs-consulting.de](https://www.affairs-consulting.de)
